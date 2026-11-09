@@ -1,0 +1,17 @@
+.pio/
+**/.pio/
+**/include/secrets.h
+.vscode/
+__pycache__/
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+mqtt-sample/captured_events/
+mqtt-sample/owner_faces/
+backend/.env
+backend/data/*.db
+backend/data/*.db-journal
+backend/data/captured_events/*.jpg
+node_modules/
+frontend/dist/
